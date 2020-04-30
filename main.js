@@ -12,3 +12,5 @@ function fetchGithubInformation(username) {
             document.getElementById('repositorios_publicos').innerHTML = `<p><b>Repositorios publicos:</b> ${myJson['public_repos']}</p>`;
         });
 }
+
+//asda
