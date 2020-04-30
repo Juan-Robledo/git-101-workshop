@@ -7,5 +7,6 @@ Es un HTML plano con una barra de busqueda, que busca un usuario en Github y nos
 ## Asistentes:
 - Pepe
 - Pepito
+- Andres Lemme2
 - Ian Horrocks
 - Santiago Ruffino
