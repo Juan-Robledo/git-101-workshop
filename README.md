@@ -13,6 +13,7 @@ Es un HTML plano con una barra de busqueda, que busca un usuario en Github y nos
 - tony96sosa
 - Julian
 - Santiago Ruffino
+- Juan Pablo Larraza
 - Ian Horrocks
 - Paula Gigena
 - Andres Lemme2
