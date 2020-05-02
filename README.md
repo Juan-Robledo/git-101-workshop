@@ -4,10 +4,15 @@ Es un HTML plano con una barra de busqueda, que busca un usuario en Github y nos
 
 ## Speaker: Santi Ruffino
 
-## Asistentes:
+## Asistentes:PVM
 - Pepe
 - Pepito
 - Miguel Andres Silva
-- Ian Horrocks
+- Cristina Gómez
+- Kevin Sueldo
+- tony96sosa
+- Julian
 - Santiago Ruffino
-
+- Ian Horrocks
+- Paula Gigena
+- Andres Lemme2
